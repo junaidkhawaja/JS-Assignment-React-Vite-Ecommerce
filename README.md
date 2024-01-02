@@ -1,6 +1,6 @@
-# React + Vite
+# Ecommerce Landing Page using Vite + React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Jawan Pakistan Assignment for React Ecommerce Landing Page using Vite Framework. This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
